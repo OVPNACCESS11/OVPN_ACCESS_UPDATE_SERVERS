@@ -1,5 +1,12 @@
-NOTICE:
 
-" DAKO KAG ITLOG BOY "!...🤣😂😛😜😝
-
--By Admin-
+{
+      type: 'download',
+      progress: 0.205523,
+      timestamp: [Date],
+      download: {
+        bandwidth: 116904636,
+        bytes: 334816510,
+        elapsed: 2727,
+        progress: 0.18180193333333333
+      }
+    }
