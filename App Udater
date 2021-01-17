@@ -1,6 +1,6 @@
-{ "title":"OVPN ACCESS",
- "versionCode":99,
+{ "title":"Update",
+ "versionCode":2,
  "force":true,
- "link":"https://drive.google.com/file/d/1R2NaGDF-D-2GlWwZx5kxurmXLCyxCVuA/view?usp=drivesdk",
+ "link":"https://drive.google.com/file/d/1eafa0UapmCbTgIXYDhks_sAX27p5xQNY/view?usp=drivesdk",
  "message":[ "New version is available to download" 
 ] }
